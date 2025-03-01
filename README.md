@@ -4,7 +4,7 @@ O intuito desse **projeto** é aprofundar em conhecimentos de HTML, CSS e JavaSc
 
 Em cada aula, foi feito um módulo do site para progredir a dificuldade dos ensinamentos
 
-![Como o site está atualmente](https://github.com/user-attachments/assets/bc01f0c1-5add-4f88-9f29-edf4087e943e)
+![Como está o site atualmente](![image](https://github.com/user-attachments/assets/af876171-c9fb-47c4-a76c-025eb9d30a4e))
 
 
 Para acessar o site [clique aqui](https://tadashi-nagashima.github.io/Spotify-Imersao-Alura/)
